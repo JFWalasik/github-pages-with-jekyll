@@ -1,10 +1,10 @@
 ---
-title: "John Walasik - Brief Portfolio"
+title: "Brief Portfolio - John Walasik"
 ---
 
 Here's a link to some short (100-400 word) writing samples, hosted here on github: https://github.com/JFWalasik/ShortWritingSamples-100-400Words
 
-Here's some Work Instructions, SOPs, and Checklists that I've written and/or edited: https://github.com/JFWalasik/WorkInstructions_SOPs_Checklists
+Here are some Work Instructions, an SOP, and Checklists that I've written and/or edited: https://github.com/JFWalasik/WorkInstructions_SOPs_Checklists
 
 Here's a guideline doc that I edited: https://github.com/JFWalasik/Dogfooding-Guidelines-Proofread-edited- (Note: I didn't write this doc, I just did some light editing, formatting, rebranding, and published it to a SharePoint site. All the other docs linked here were written or re-written/heavily edited by me. I've included this as an example of something I've edited, to show the type of docs that I've worked with.)
 
